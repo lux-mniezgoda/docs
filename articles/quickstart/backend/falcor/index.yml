@@ -15,7 +15,7 @@ snippets:
   use: server-apis/falcor/use
 articles:
   - 01-authorization
-show_steps: false
+show_steps: true
 github:
   org: auth0-community
   repo: auth0-falcor-api
