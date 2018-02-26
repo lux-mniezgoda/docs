@@ -2,6 +2,7 @@
 title: Token Renewal
 description: This tutorial demonstrates how to add automatic access token renewal to an application with Auth0.
 budicon: 448
+show_steps: false
 github:
     path: 05-Token-Renewal
 ---
